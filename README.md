@@ -1,1 +1,1 @@
-# interactive-map
+# waikei-llm-poc
